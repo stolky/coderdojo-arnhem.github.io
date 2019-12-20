@@ -23,7 +23,7 @@ De kerstman besturen
 
    Je beweegt omhoog en omlaag door y te veranderen. Je beweegt naar links en rechts door de x te veranderen.
 
-   We zetten de "al ... dan ..." code in een herhaal blok. We moeten namelijk de hele tijd kijken of de pijltjestoetsen worden ingedrukt.
+   We zetten de "als ... dan ..." code in een herhaal blok. We moeten namelijk de hele tijd kijken of de pijltjestoetsen worden ingedrukt.
 
    Start het spel en kijkt of het werkt! Let op dat je 10 en -10 opschrijft. Stop het spel voordat je verder gaat.
 
